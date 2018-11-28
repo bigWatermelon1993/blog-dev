@@ -4,7 +4,7 @@ tags: test
 categories: test
 ---
 
-<blockquote class="blockquote-center">blah blah blah</blockquote>
+<blockquote class="blockquote-center">blah blah 55555</blockquote>
 
 <!-- 标签 方式，要求版本在0.4.5或以上 -->
 
