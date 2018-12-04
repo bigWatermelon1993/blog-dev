@@ -3,7 +3,7 @@
 ##使用hexo+next
 
 ##启动
-npm start
+npm run start
 
 ##发布
 npm run release
