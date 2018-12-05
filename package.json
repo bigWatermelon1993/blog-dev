@@ -8,7 +8,7 @@
   "scripts": {
     "release": "hexo clean && hexo g -d",
     "start": "hexo clean && hexo g && hexo s",
-    "new": "hexo new page"
+    "new": "hexo new post"
   },
   "dependencies": {
     "hexo": "^3.7.0",
