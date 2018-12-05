@@ -9,7 +9,7 @@
     "release": "hexo clean && hexo g -d",
     "start": "hexo clean && hexo g && hexo s",
     "new": "hexo new page $1",
-    "push": "git add . && git commit -m '$1' && git push origin master"
+    "push": "git add . && git commit -m '${$1}' && git push"
   },
   "dependencies": {
     "hexo": "^3.7.0",
