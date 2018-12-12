@@ -7,7 +7,7 @@
   },
   "scripts": {
     "release": "hexo clean && hexo g -d",
-    "start": "hexo clean && hexo g && hexo s",
+    "dev": "hexo clean && hexo g && hexo s",
     "new": "hexo new post"
   },
   "dependencies": {
