@@ -5,6 +5,7 @@ tags:
   - node
   - js
 categories:
+  - js
   - node
 ---
 

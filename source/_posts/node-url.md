@@ -5,6 +5,7 @@ tags:
   - node
   - js
 categories:
+  - js
   - node
 ---
 
@@ -15,7 +16,7 @@ url 模块提供了两套 API:
 1. 旧版本的遗留--Node.js 特有 API
 2. WHATWG URL Standard 的 API--在各种浏览器中被使用
 
-   <!-- MORE -->
+<!-- MORE -->
 
 官网上有个非常好的图
 {% asset_img node-url-params.png API示意图 %}
