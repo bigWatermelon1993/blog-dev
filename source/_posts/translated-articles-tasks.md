@@ -41,4 +41,4 @@ Edge, Firefox 40,移动端的 Safari 和桌面端的 Safari（版本 8.0.8），
 要想理解为什么会这样我们需要理解事件循环是怎么处理任务和微任务的。如果你是第一次碰到这个问题那么这可能花费你不少的脑细胞，深呼吸，开始吧！
 每个 Web worker 都拥有能够独立执行的 event loop，而同一个源上的所有窗口借助同步通信可以共享一个 event loop。 event loop 持续不断的运行来处理排列的任务。
 
-{% centerquote %}太难翻了，立个 lage,我后面一定会把它翻译完。{% endcenterquote %}
+{% centerquote %}太难翻了，立个 flag,我后面一定会把它翻译完。{% endcenterquote %}
